@@ -2,6 +2,12 @@
 
 > A Vue.js project
 
+## DEMO
+[预览01]: C:\Users\58399\Desktop\img01.png  "img 01"
+[预览02]: C:\Users\58399\Desktop\img02.png  "img 02"
+[预览03]: C:\Users\58399\Desktop\img03.png  "img 03"
+
+
 ## Build Setup
 
 ``` bash
@@ -14,8 +20,3 @@ npm run dev
 # build for production with minification
 npm run build
 
-# build for production and view the bundle analyzer report
-npm run build --report
-```
-
-For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
